@@ -1,0 +1,26 @@
+.list{
+    width:100vw;
+}
+.list-item{
+    width: 100%;
+    background-color: tomato;
+    border: 2px solid #777;
+    padding: 20px 10px;
+    margin: 20px;
+}
+.newClass{
+    font-size: 40px;
+    color: green;
+    background: #999;
+}
+#timer{
+    background: purple;
+    color: #fff;
+    padding: 50px;
+
+}
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+}
